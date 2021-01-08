@@ -1,4 +1,4 @@
-name: ml
+name: ml1
 channels:
   - conda-forge
   - defaults
